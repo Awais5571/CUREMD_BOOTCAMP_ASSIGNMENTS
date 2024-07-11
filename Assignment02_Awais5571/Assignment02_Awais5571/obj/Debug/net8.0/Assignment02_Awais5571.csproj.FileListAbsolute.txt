@@ -1,0 +1,14 @@
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\obj\Debug\net8.0\Assignment02_Awais5571.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\obj\Debug\net8.0\Assignment02_Awais5571.AssemblyInfoInputs.cache
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\obj\Debug\net8.0\Assignment02_Awais5571.AssemblyInfo.cs
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\obj\Debug\net8.0\Assignment02_Awais5571.csproj.CoreCompileInputs.cache
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\bin\Debug\net8.0\Assignment02_Awais5571.exe
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\bin\Debug\net8.0\Assignment02_Awais5571.deps.json
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\bin\Debug\net8.0\Assignment02_Awais5571.runtimeconfig.json
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\bin\Debug\net8.0\Assignment02_Awais5571.dll
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\bin\Debug\net8.0\Assignment02_Awais5571.pdb
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\obj\Debug\net8.0\Assignment02_Awais5571.dll
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\obj\Debug\net8.0\refint\Assignment02_Awais5571.dll
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\obj\Debug\net8.0\Assignment02_Awais5571.pdb
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\obj\Debug\net8.0\Assignment02_Awais5571.genruntimeconfig.cache
+C:\Users\5571\source\repos\Assignment02_Awais5571\Assignment02_Awais5571\obj\Debug\net8.0\ref\Assignment02_Awais5571.dll
