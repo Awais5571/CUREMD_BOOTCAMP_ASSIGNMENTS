@@ -1,0 +1,14 @@
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\bin\Debug\net8.0\Project01_CMD.exe
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\bin\Debug\net8.0\Project01_CMD.deps.json
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\bin\Debug\net8.0\Project01_CMD.runtimeconfig.json
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\bin\Debug\net8.0\Project01_CMD.dll
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\bin\Debug\net8.0\Project01_CMD.pdb
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\obj\Debug\net8.0\Project01_CMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\obj\Debug\net8.0\Project01_CMD.AssemblyInfoInputs.cache
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\obj\Debug\net8.0\Project01_CMD.AssemblyInfo.cs
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\obj\Debug\net8.0\Project01_CMD.csproj.CoreCompileInputs.cache
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\obj\Debug\net8.0\Project01_CMD.dll
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\obj\Debug\net8.0\refint\Project01_CMD.dll
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\obj\Debug\net8.0\Project01_CMD.pdb
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\obj\Debug\net8.0\Project01_CMD.genruntimeconfig.cache
+C:\Users\Mian Computer\source\repos\Project01_CMD\Project01_CMD\obj\Debug\net8.0\ref\Project01_CMD.dll
