@@ -1,0 +1,65 @@
+[
+    {
+        "SrNo": "1",
+        "BookName": "War and Peace",
+        "Author": "Leo Tolstoy",
+        "Category":"Fiction"
+    },
+    {
+        "SrNo": "2",
+        "BookName": "Great Expectations",
+        "Author": "Charles Dickens",
+        "Category":"Fiction"
+    },
+    {
+        "SrNo": "3",
+        "BookName": "The Adventures of Huckleberry Finn",
+        "Author": "Mark Twain",
+        "Category":"Fiction"
+    },
+    {
+        "SrNo": "4",
+        "BookName": "To the Lighthouse",
+        "Author": "Virginia Woolf",
+        "Category":"Fiction"
+    },
+    {
+        "SrNo": "5",
+        "BookName": "Crime and Punishment",
+        "Author": "Fyodor Dostoevsky",
+        "Category":"Fiction"
+    },
+    {
+        "SrNo": "6",
+        "BookName": "Norwegian Wood",
+        "Author": "Haruki Murakami",
+        "Category":"Fiction"
+    },
+    {
+        "SrNo": "7",
+        "BookName": "Things Fall Apart",
+        "Author": "Chinua Achebe",
+        "Category":"Fiction"
+    },
+    {
+        "SrNo": "8",
+        "BookName": "The Handmaids Tale",
+        "Author": "Margaret Atwood",
+        "Category":"Fiction"
+    },
+    {
+        "SrNo": "9",
+        "BookName": "Gitanjali",
+        "Author": "Rabindranath Tagore",
+        "Category":"Fiction"
+    },
+    {
+        "SrNo": "10",
+        "BookName": "Malgudi Days",
+        "Author": "R.K. Narayan",
+        "Category":"Fiction"
+    }
+    
+    
+
+]

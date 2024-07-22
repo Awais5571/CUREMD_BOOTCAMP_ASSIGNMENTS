@@ -440,13 +440,13 @@
         //     }
         // });
         $.ajax({
-            url:'https://localhost:7161/api/BookStore',
+            url:'books.json',
             method:'GET',
             dataType:'json',
             success: function(data){
                 console.log("Data Recieved")
                 for(let i=0;i<(data.length);i++){
-                    let row = `<tr> <td>${data[i].id}</td> <td>${data[i].title}</td> <td>${data[i].author}</td> <td>${data[i].description}</td>  </tr>`;
+                    let row = `<tr> <td>${data[i].SrNo}</td> <td>${data[i].BookName}</td> <td>${data[i].Author}</td> <td>${data[i].Category}</td>  </tr>`;
                     $('tbody').append(row);
 
 
